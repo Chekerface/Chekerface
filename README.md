@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chekerface
-- 👀 I’m interested in database coding
-- 🌱 I’m currently learning python and java
+- 😬  I work in banking and I was a business major -> My code is bad but it works
+- 🌱 I do small projects (Macros, Python even 😷JavaScript😷 ) 
   
 - 📫 How to reach me <ul><li><a href="https://www.linkedin.com/in/carmen-jimenez-camacho?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a></li></ul>
 - 😄 Pronouns: She/her 
